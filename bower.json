@@ -1,11 +1,11 @@
 {
-  "name": "ng-tags-input-sp",
-  "version": "2.0.3-devsp",
-  "location": "https://github.com/sergiu-paraschiv/ngTagsInput-bower",
+  "name": "fahad19-ng-tags-input",
+  "version": "2.0.4",
+  "location": "https://github.com/fahad19/ngTagsInput-bower",
   "homepage": "http://sergiu-paraschiv.github.io/ngTagsInput",
   "main": [
-    "ng-tags-input.min.js",
-    "ng-tags-input.min.css"
+    "ng-tags-input.js",
+    "ng-tags-input.css"
   ],
   "description": "Tags input directive for AngularJS",
   "dependencies": {
